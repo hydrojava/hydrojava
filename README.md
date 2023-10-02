@@ -42,13 +42,12 @@ Other things Im alright at but dont really use.
 
 ### Stats
 
-<details>
-  <summary>Click to reveal  stats</summary>
+
   
   ![Stats](https://github-readme-stats.vercel.app/api?username=HydroYT&show_icons=true&hide_title=true&bg_color=30,41E296,00C4EE&title_color=fff&text_color=fff)
 
 
-</details>
+
 
 
 
