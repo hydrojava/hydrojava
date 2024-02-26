@@ -42,7 +42,7 @@ Other things Im alright at but dont really use.
 
 
   
-  ![Stats](https://github-readme-stats.vercel.app/api?username=HydroYT&show_icons=true&hide_title=true&bg_color=30,41E296,00C4EE&title_color=fff&text_color=fff)
+  ![Stats](https://github-readme-stats.vercel.app/api?username=bladejsy&show_icons=true&hide_title=true&bg_color=30,41E296,00C4EE&title_color=fff&text_color=fff)
 
 
 
@@ -53,4 +53,4 @@ Other things Im alright at but dont really use.
 
 ### What I'm doing right now
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/999843636546121758)](https://discord.com/users/999843636546121758)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/896130911563833425)](https://discord.com/users/896130911563833425)
