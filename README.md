@@ -30,7 +30,7 @@ Other things Im alright at but dont really use.
 
 
 <details>
-  <summary>Things I have tried but don't use frequently</summary>
+  Things I have tried but don't use frequently
   
   [![My Skills](https://skillicons.dev/icons?i=ae,angular,arch,atom,au,aws,azure,babel,blender,bootstrap,c,cs,cpp,clion,cmake,electron,dotnet,firebase,figma,go,ai,kali,neovim,pycharm,py,redhat)](https://skillicons.dev)
 
