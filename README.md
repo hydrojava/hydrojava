@@ -29,12 +29,10 @@ Other things Im alright at but dont really use.
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,prometheus,heroku,regex,maven,mongodb,kotlin,react)](https://skillicons.dev)
 
 
-<details>
   Things I have tried but don't use frequently
   
   [![My Skills](https://skillicons.dev/icons?i=ae,angular,arch,atom,au,aws,azure,babel,blender,bootstrap,c,cs,cpp,clion,cmake,electron,dotnet,firebase,figma,go,ai,kali,neovim,pycharm,py,redhat)](https://skillicons.dev)
 
-</details>
 
 
 
