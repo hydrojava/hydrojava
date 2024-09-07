@@ -4,7 +4,7 @@
 
 <hr>
 
-Hello I`m Blade, a developer from Jersey. I write code, often about things that i will never even use again.
+Hello I`m Hydro, a developer from Jersey. I write code, often about things that i will never even use again.
 
 I started messing with code a little in 2016, starting with very basic Node.JS and some basic HTML & CSS only web pages. I have been writing more code every year since, as my GitHub profile shows.
 
