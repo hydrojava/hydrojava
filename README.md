@@ -51,4 +51,4 @@ Other things Im alright at but dont really use.
 
 ### What I'm doing right now
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/896130911563833425)](https://discord.com/users/896130911563833425)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/999843636546121758)](https://discord.com/users/999843636546121758)
