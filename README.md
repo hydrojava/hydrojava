@@ -40,7 +40,7 @@ Other things Im alright at but dont really use.
 
 
   
-  ![Stats](https://github-readme-stats.vercel.app/api?username=bladejsy&show_icons=true&hide_title=true&bg_color=30,41E296,00C4EE&title_color=fff&text_color=fff)
+  ![Stats](https://github-readme-stats.vercel.app/api?username=hydrojava&show_icons=true&hide_title=true&bg_color=30,41E296,00C4EE&title_color=fff&text_color=fff)
 
 
 
