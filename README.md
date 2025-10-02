@@ -1,15 +1,10 @@
 ## Hello! 👋
 
-![GitHub profile views](https://komarev.com/ghpvc/?username=HydroYT&color=009999&style=for-the-badge) <!-- *(since 20th October 2020)* -->
-
 <hr>
 
-Hello I`m Hydro, a developer from Jersey. I write code, often about things that i will never even use again.
+Hi, I'm from Jersey and I write code.
 
-I started messing with code a little in 2016, starting with very basic Node.JS and some basic HTML & CSS only web pages. I have been writing more code every year since, as my GitHub profile shows.
-
-I mostly use Java and JavaScript, however I would like to give Go and Rust a try in the future.
-
+I started programming in 2018, starting out with basic web pages and then working up to programs in Java and CSharp which i do today.
 <hr>
 <hr>
 
@@ -18,26 +13,18 @@ I mostly use Java and JavaScript, however I would like to give Go and Rust a try
 
 #### Proficient (commonly used)
 
-The things I'm best at, ordered by time.
+The things I'm best at.
 
-[![My Skills](https://skillicons.dev/icons?i=linux,html,css,js,github,md,nodejs,discord,bots,cloudflare,git,nginx,vscode,mysql,netlify,java,apple,bash,discord,bots,discordjs,docker,gmail,gradle,grafana,idea,instagram,jenkins,md,mysql,npm,prisma,twitter,ubuntu,vscode,windows)](https://skillicons.dev)
-
-#### Confident (less commonly used)
-
-Other things Im alright at but dont really use.
-
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,prometheus,heroku,regex,maven,mongodb,kotlin,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,androidstudio,apple,aws,bash,azure,cs,cloudflare,css,debian,bots,docker,dotnet,electron,figma,github,gmail,grafana,gradle,html,idea,js,mysql,nodejs,notion,java)](https://skillicons.dev)
 
 
-  Things I have tried but don't use frequently
-  
-  [![My Skills](https://skillicons.dev/icons?i=ae,angular,arch,atom,au,aws,azure,babel,blender,bootstrap,c,cs,cpp,clion,cmake,electron,dotnet,firebase,figma,go,ai,kali,neovim,pycharm,py,redhat)](https://skillicons.dev)
 
 
 
 
 ### Stats
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hydrojava)]
 
   
   ![Stats](https://github-readme-stats.vercel.app/api?username=hydrojava&show_icons=true&hide_title=true&bg_color=30,41E296,00C4EE&title_color=fff&text_color=fff)
@@ -48,7 +35,3 @@ Other things Im alright at but dont really use.
 
 
 <hr>
-
-### What I'm doing right now
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/896130911563833425)](https://discord.com/users/896130911563833425)
