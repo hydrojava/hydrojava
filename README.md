@@ -24,10 +24,10 @@ The things I'm best at.
 
 ### Stats
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hydrojava)]
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hydrojava&show_icons=true&theme=ambient_gradient)
 
-  
-  ![Stats](https://github-readme-stats.vercel.app/api?username=hydrojava&show_icons=true&hide_title=true&bg_color=30,41E296,00C4EE&title_color=fff&text_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 
 
 
