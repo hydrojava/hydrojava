@@ -8,7 +8,10 @@ I started programming in 2018, starting out with basic web pages and then workin
 <hr>
 <hr>
 
-
+<!-- Profile Views with Custom Style -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=1nstagram1&color=7289DA&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+</p>
 ### Skills
 
 #### Proficient (commonly used)
